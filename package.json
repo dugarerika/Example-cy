@@ -1,0 +1,23 @@
+{
+	"name": "cypress",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"open": "cypress open"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dugarerika/Cypres-Example.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/dugarerika/Cypres-Example/issues"
+	},
+	"homepage": "https://github.com/dugarerika/Cypres-Example#readme",
+	"devDependencies": {
+		"@types/cypress-cucumber-preprocessor": "^4.0.0",
+		"cypress-cucumber-preprocessor": "^4.1.0"
+	}
+}
