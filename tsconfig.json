@@ -1,10 +1,9 @@
-{
-  "compilerOptions": {
+{ "compilerOptions": {
     "target": "ES6",
     "sourceMap": true,
     "types": [
       "cypress"
     ]
   },
-  "include": ["*/.ts"]
+  "include": ["**/*.ts"]
 }

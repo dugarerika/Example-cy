@@ -1,0 +1,4 @@
+{
+	"baseUrl": "https://vendor.bookr.co/auth",
+	"testFiles": "**/*.feature"
+}
